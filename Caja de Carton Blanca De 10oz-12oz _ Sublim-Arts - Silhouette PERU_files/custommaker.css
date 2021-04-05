@@ -1,0 +1,12 @@
+body{
+    background-color: #fff;
+    font-family: Tahoma,sans-serif,Arial !important;
+}
+
+.sf-menu > li > a, .shopping_cart > a:first-child b, .footer-container #footer h4, .block .title_block, .block h4, h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5, #home-page-tabs > li a, .button.lnk_view, .price-percent-reduction, .sf-menu > li > ul > li > a, .box-info-product .exclusive span {
+    font-family: "Cuprum", Arial;
+}
+
+span.sale-label {
+	border-right-color: rgba(0, 0, 0, 0) !important;
+}
